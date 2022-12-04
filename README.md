@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaibhav
-- 👀 I’m interested in JAVA Language
+- 👀 I’m interested in JAVA
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Some Java Projects
 
